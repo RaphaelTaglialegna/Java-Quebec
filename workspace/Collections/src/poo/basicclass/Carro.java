@@ -1,4 +1,4 @@
-package poo;
+package poo.basicclass;
 
 public class Carro {
   String name;
