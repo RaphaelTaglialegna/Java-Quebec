@@ -2,8 +2,8 @@ package poo;
 
 public class Carro {
   String name;
-  String Collor;
+  String collor;
   int fuelCapacity;
 
-  
+
 }
