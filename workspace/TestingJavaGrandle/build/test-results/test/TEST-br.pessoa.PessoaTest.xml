@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.pessoa.PessoaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-25T09:41:01" hostname="raphael-aspirea51555g" time="0.029">
+  <properties/>
+  <testcase name="validarCalculoDaIdade()" classname="br.pessoa.PessoaTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
